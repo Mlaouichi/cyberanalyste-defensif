@@ -23,4 +23,4 @@ Les suggestions et contributions sont les bienvenues. Ouvre une "issue" ou propo
 
 ## Licence
 
-[à déterminer]
+MIT
